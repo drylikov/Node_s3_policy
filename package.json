@@ -1,0 +1,16 @@
+
+{
+  "name": "s3_policy",
+  "version": "0.2.0",
+  "description": "S3 policy generation for client-side uploads",
+  "keywords": ["s3", "policy"],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "repository": "drylikov/node_s3_policy",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index",
+  "files": ["index.js"]
+}
