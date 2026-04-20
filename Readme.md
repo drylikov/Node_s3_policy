@@ -1,6 +1,6 @@
 # S3 policy.
 
-  [S3 policy][] generation for client-side uploads. By default, `Content-Type` and
+  [S3 policy][https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html] generation for client-side uploads. By default, `Content-Type` and
   `Content-Length` form fields are __required__, but can contain any value.
 
 ## Options
@@ -36,7 +36,6 @@ var p = policy({
 console.log(p.policy);
 console.log(p.signature);
 ```
-
 
 
 
