@@ -37,4 +37,3 @@ console.log(p.policy);
 console.log(p.signature);
 ```
 
-
